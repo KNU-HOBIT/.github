@@ -87,15 +87,15 @@
 ## About The Project
 
 <p>
-<img src="images/output.png" width="49%">
-<img src="images/temp.png" width="49%">
+<img src=".github/images/output.png" width="49%">
+<img src=".github/images/temp.png" width="49%">
 </p>
 
 산업계에서 작업 효율과 안전을 높이기 위해 산업 사물 인터넷(IIoT) 데이터의 활용이 점점 중요해지고 있습니다. 많은 제조 기업들이 센서 데이터 파이프라인을 통해 IIoT 빅데이터를 수집하고 저장하고 있지만, 대용량 데이터를 효과적으로 전송하고 처리할 수 있는 소프트웨어 인프라는 부족한 상태입니다.이를 해결하기 위해, **Apach Kafka**와 **Apache Spark**를 기반으로 한 온-프리미스 IIoT 빅데이터 처리 플랫폼인 **HOBIT** 시스템을 제안합니다. HOBIT 시스템은 데이터 수집과 저장, 고속 분석을 강화하여 기존 REST API 방식보다 데이터 전송 처리 속도를 **10배** 이상 향상시킬 수 있었으며, AI 모델 학습에 있어서도 병렬 분산 컴퓨팅을 통해 속도를 단일 컴퓨팅 환경 대비 **4배** 빠르게 향상시켰습니다. 이를 통해 제조 기업들이 클라우드 비용을 절약하며 실시간으로 경제적이고 효율적인 빅데이터 처리 및 분석을 할 수 있을 것으로 기대됩니다.
 
 ### Architecture
 <p align="center">
-<img src="images/arch.png" width="90%">
+<img src=".github/images/arch.png" width="90%">
 </p>
 
 ### Module configuration and roles:
