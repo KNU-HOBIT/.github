@@ -198,8 +198,8 @@ _클릭하면 각 모듈에 대한 Repo로 이동._
 
 * **IoT Platform** 
     * **CSV to Protobuf** // 영우형이랑 같이 레포 합치고,
-    * Influx MQTT Connector // 현재 있음
-    * [**IoT Server**](https://github.com/KNU-HOBIT/large-dataset-delivery-kafka) // 현재 있음
+    * [**Influx MQTT Connector**](https://github.com/KNU-HOBIT/mqtt-influxdb-connector)
+    * [**IoT Server**](https://github.com/KNU-HOBIT/large-dataset-delivery-kafka)
     * **InfluxDB** // 별도로 k8s 배포 방법 .md 제작
 * **HOBIT**
     * **MQTT Broker** // 별도로 k8s 배포 방법 .md 제작
