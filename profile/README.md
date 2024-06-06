@@ -153,7 +153,7 @@
 | | |
 |-|-|
 | OS | Ubuntu 20.04.6 LTS (Focal Fossa) |
-| CPU | Intel Core i7-10700K@3.80GHz |
+| CPU | Intel Core i7-10700K 3.80GHz |
 | RAM | 64GB DDR4, 3200 MT/s, 16GB x 4 |
 </details>
 <details>
