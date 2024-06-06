@@ -112,7 +112,7 @@
 
 * **Application** : IoT플랫폼과 HOBIT을 이용하는 어플리케이션 계층
     * **React** : 서버로부터 받은 데이터 시각화, API에 대한 UI/UX 제공
-    * **FastAPI Server** : 어플리케이션 API 제공. 주로 사용자 요구에 따라, IoT 서버와 HOBIT의 모듈로 IoT 데이터 전송 및 가공을 요청 (Spark Driver에 해당) :
+    * **FastAPI Server** : 어플리케이션 API 제공. 주로 사용자 요구에 따라, IoT 서버와 HOBIT의 모듈로 IoT 데이터 전송 및 가공을 요청 (Spark Driver에 해당)
     * **MySQL** : 해당 어플리케이션 운영에 필요한 데이터 저장소
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
