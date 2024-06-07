@@ -196,19 +196,26 @@ _For other Library or Language versions, please refer to the respective reposito
 ## Getting Started
 _클릭하면 각 모듈에 대한 Repo로 이동._
 
+### K8s Setting Menual
+* [**Init k8s**](./k8s_init.md)
+* [**Install Helm**](./helm_init.md)
+* [**Init Rook-Cefh**](./rook_ceph_init.md)
+> Required steps for setting up HOBIT. 
+
+### Each Module Repo or Docs
 * **IoT Platform** 
     * **CSV to Protobuf** // 영우형이랑 같이 레포 합치고,
     * [**Influx MQTT Connector**](https://github.com/KNU-HOBIT/mqtt-influxdb-connector)
     * [**IoT Server**](https://github.com/KNU-HOBIT/large-dataset-delivery-kafka)
-    * **InfluxDB** // 별도로 k8s 배포 방법 .md 제작
+    * [**InfluxDB**](./influx_helm_init.md)
 * **HOBIT**
-    * **MQTT Broker** // 별도로 k8s 배포 방법 .md 제작
-    * **Spark Cluster** // 별도로 k8s 배포 방법 .md 제작
-    * **Kafka Cluster** // 별도로 k8s 배포 방법 .md 제작
+    * [**MQTT Broker**](https://github.com/KNU-HOBIT/mosquitto-kube)
+    * [**Spark Cluster**](https://github.com/KNU-HOBIT/spark-standalone-kube)
+    * [**Kafka Cluster**](https://github.com/KNU-HOBIT/kafka-kube)
 * **Application**
     * **React** // 현재 있음
     * **FastAPI Server** // 현재 있음
-    * **MySQL** // 별도로 k8s 배포 방법 .md 제작
+    * [**MySQL**](https://github.com/KNU-HOBIT/mysql-kube)
 
 아래는 각 Repo 의 README에 있어야할 것 예시.
 
