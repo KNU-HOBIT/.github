@@ -131,7 +131,7 @@
 | Sensor Simulation | CSV, Protobuf, MQTT, Python ... |
 | IoT Platform | Golang, Go Kafka Client, Go Influx client, InfluxDB, ... ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
 | HOBIT | 스파크, 카프카, 모스키토, .. k3s, k9s, ... |
-| Application | [![React][React.js]][React-url][![npm][npm]][npm-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JavaScript][JavaScript.js]][JavaScript-url]FastAPI, Pyspark, MySQL, ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
+| Application | [![React][React.js]][React-url][![npm][npm]][npm-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JavaScript][JavaScript.js]][JavaScript-url][![CSS3][CSS3]][CSS3-url]FastAPI, Pyspark, MySQL, ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
 | Development Environment | 리눅스, 맥 ,? ,?  |
 
 
@@ -217,7 +217,7 @@ _다음은 잠재 고객에게 앱 설치 및 설정에 대해 안내하는 방�
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/KNU-HOBIT/knu_hobit_gr.git)
+   git clone https://github.com/KNU-HOBIT/knu_hobit_gr.git
    ```
    ```sh
    cd knu_hobit_gr
@@ -229,6 +229,11 @@ _다음은 잠재 고객에게 앱 설치 및 설정에 대해 안내하는 방�
    ```sh
    npm install
    ```
+5. Run Application
+    ```sh
+   npm start
+   ```
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
