@@ -184,7 +184,10 @@
 | | |
 |-|-|
 | **k8s Cluster** |  v1.28.7+k3s1 |
+| **Helm** | v3.11.3 |
+| **Rook-Ceph** | v1.13.7 |
 | **Spark Cluster** | 3.5.1 ( **Standalond** on K8s) |
+| **Strimzi** | 0.40.0 |
 | **Kafka Cluster** | 3.7.0 ( **Kraft** Mode ) |
 | **InfluxDB** | InfluxDB OSS v2.7.4 |
 | **Golang** |  go1.22.2 linux/amd64 (common) |
