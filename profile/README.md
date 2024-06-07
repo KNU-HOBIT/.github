@@ -197,9 +197,9 @@ _For other Library or Language versions, please refer to the respective reposito
 _클릭하면 각 모듈에 대한 Repo로 이동._
 
 ### K8s Setting Menual
-* [**Init k8s**](./k8s_init.md)
-* [**Install Helm**](./helm_init.md)
-* [**Init Rook-Cefh**](./rook_ceph_init.md)
+* [**Init k8s**](profile/k8s_init.md)
+* [**Install Helm**](profile/helm_init.md)
+* [**Init Rook-Cefh**](profile/rook_ceph_init.md)
 > Required steps for setting up HOBIT. 
 
 ### Each Module Repo or Docs
@@ -207,7 +207,7 @@ _클릭하면 각 모듈에 대한 Repo로 이동._
     * **CSV to Protobuf** // 영우형이랑 같이 레포 합치고,
     * [**Influx MQTT Connector**](https://github.com/KNU-HOBIT/mqtt-influxdb-connector)
     * [**IoT Server**](https://github.com/KNU-HOBIT/large-dataset-delivery-kafka)
-    * [**InfluxDB**](./influx_helm_init.md)
+    * [**InfluxDB**](profile/influx_helm_init.md)
 * **HOBIT**
     * [**MQTT Broker**](https://github.com/KNU-HOBIT/mosquitto-kube)
     * [**Spark Cluster**](https://github.com/KNU-HOBIT/spark-standalone-kube)
