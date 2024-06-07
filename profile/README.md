@@ -131,7 +131,7 @@
 | Sensor Simulation | CSV, Protobuf, MQTT, Python ... |
 | IoT Platform | Golang, Go Kafka Client, Go Influx client, InfluxDB, ... ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
 | HOBIT | 스파크, 카프카, 모스키토, .. k3s, k9s, ... |
-| Application | [![React][React.js]][React-url][![npm][npm]][npm-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JavaScript][JavaScript.js]][JavaScript-url][![CSS3][CSS3]][CSS3-url]FastAPI, Pyspark, MySQL, ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
+| Application | [![React][React.js]][React-url][![npm][npm]][npm-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JavaScript][JavaScript.js]][JavaScript-url][![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)FastAPI, Pyspark, MySQL, ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
 | Development Environment | 리눅스, 맥 ,? ,?  |
 
 
