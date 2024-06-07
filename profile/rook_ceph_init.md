@@ -41,8 +41,7 @@ lsblk -f
     kubectl create -f cluster.yaml
     ```
     > 다소 오래 걸리는 작업.
-    따라서, 아래와 같이 rook-ceph-operator 로그를 보면서 진행 과정을 보는 것이 좋다.
-    </br>
+    따라서, 아래와 같이 rook-ceph-operator 로그를 보면서 진행 과정을 보는 것이 좋다.</br>
     >```
     >kubectl -n rook-ceph logs -l app=rook-ceph-operator -f
     >```
