@@ -216,7 +216,7 @@ _클릭하면 각 모듈에 대한 Repo로 이동._
     * [**Spark Cluster**](https://github.com/KNU-HOBIT/spark-standalone-kube)
     * [**Kafka Cluster**](https://github.com/KNU-HOBIT/kafka-kube)
 * **Application**
-    * **React** // 현재 있음
+    * [**React**](https://github.com/KNU-HOBIT/knu_hobit_gr)
     * **FastAPI Server** // 현재 있음
     * [**MySQL**](https://github.com/KNU-HOBIT/mysql-kube)
 
