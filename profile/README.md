@@ -207,7 +207,7 @@ _클릭하면 각 모듈에 대한 Repo로 이동._
 
 ### Each Module Repo or Docs
 * **IoT Platform** 
-    * **CSV to Protobuf** // 영우형이랑 같이 레포 합치고,
+    * [**CSV to Protobuf**](https://github.com/KNU-HOBIT/MQT_PROTOBUF_simulation)
     * [**Influx MQTT Connector**](https://github.com/KNU-HOBIT/mqtt-influxdb-connector)
     * [**IoT Server**](https://github.com/KNU-HOBIT/large-dataset-delivery-kafka)
     * [**InfluxDB**](profile/influx_helm_init.md)
