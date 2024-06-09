@@ -21,11 +21,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!-- 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-<!-- [![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
@@ -45,11 +46,11 @@
     <a href="#getting-started"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">🎥 View Demo</a>
-    ·
+    <a href="https://www.youtube.com/watch?v=9vQZ5ijSgNs">🎥 View Demo</a>
+    <!--·
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">🐞 Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">💬 Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">💬 Request Feature</a> -->
   </p>
 </div>
 
@@ -139,7 +140,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Prerequisites
 
@@ -220,44 +220,18 @@ _클릭하면 각 모듈에 대한 Repo로 이동._
     * [**FastAPI Server**](https://github.com/KNU-HOBIT/hobit-FastAPI)
     * [**MySQL**](https://github.com/KNU-HOBIT/mysql-kube)
 
-아래는 각 Repo 의 README에 있어야할 것 예시.
-
-_다음은 잠재 고객에게 앱 설치 및 설정에 대해 안내하는 방법의 예시입니다. 이 템플릿은 외부 종속성이나 서비스에 의존하지 않습니다.._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/KNU-HOBIT/knu_hobit_gr.git
-   ```
-   ```sh
-   cd knu_hobit_gr
-   ```
-    ```sh
-   git checkout master
-   ```
-4. Install NPM packages
-   ```sh
-   npm install
-   ```
-5. Run Application
-    ```sh
-   npm start
-   ```
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!--## Usage
 
 이 공간을 사용하여 프로젝트 사용 방법에 대한 유용한 예를 보여주세요. 추가 스크린샷, 코드 예제 및 데모도 이 공간에서 잘 작동합니다. 더 많은 리소스로 연결할 수도 있습니다.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
@@ -297,11 +271,13 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+
+<!-- ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+
 
 
 
@@ -324,7 +300,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 이 공간에 도움이 되었거나 공로를 인정하고 싶은 리소스를 나열하세요. 시작을 위해 제가 가장 좋아하는 몇 가지를 포함시켜 보았습니다!
 
@@ -338,7 +314,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
