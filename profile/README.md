@@ -129,10 +129,10 @@
 | Database(예시) | [![MySQL][MySQL]][MySQL-url][![Prisma][Prisma]][Prisma-url] |
 | Development Environment(예시) | [![macOS][macOS]][macOS-url] |
 |------(위에는 예시)----|-------(아래는 우리꺼)-----|
-| Sensor Simulation | CSV, Protobuf, MQTT, Python ... |
-| IoT Platform | Golang, Go Kafka Client, Go Influx client, InfluxDB, ... ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
+| Sensor Simulation | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)CSV, Protobuf, MQTT ... |
+| IoT Platform | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) Go Kafka Client, Go Influx client, ... ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
 | HOBIT |<img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/><img src="https://img.shields.io/badge/eclipsemosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white"/><img src="https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=k3s&logoColor=white"/>, k9s, ... |
-| Application | [![React][React.js]][React-url][![npm][npm]][npm-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JavaScript][JavaScript.js]][JavaScript-url]![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)FastAPI, Pyspark, MySQL, ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
+| Application | [![React][React.js]][React-url][![npm][npm]][npm-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JavaScript][JavaScript.js]][JavaScript-url]![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) Pyspark, ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
 | Development Environment | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 
