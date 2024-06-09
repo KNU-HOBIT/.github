@@ -133,7 +133,7 @@
 | IoT Platform | Golang, Go Kafka Client, Go Influx client, InfluxDB, ... ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
 | HOBIT |<img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/><img src="https://img.shields.io/badge/eclipsemosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white"/><img src="https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=k3s&logoColor=white"/>, k9s, ... |
 | Application | [![React][React.js]][React-url][![npm][npm]][npm-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JavaScript][JavaScript.js]][JavaScript-url]![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)FastAPI, Pyspark, MySQL, ? ,? ,? ( 쓴 언어나,라이브러리,, )  |
-| Development Environment | 리눅스, 맥 ,? ,?  |
+| Development Environment | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 
 
