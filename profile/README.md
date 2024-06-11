@@ -34,11 +34,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <p align="center">
+<!--     <p align="center">
     <img src="https://github.com/blueberry0814/hobitfront_jiye/assets/155938701/512f8d1d-408f-4cdb-b9ff-1b319caa0b65" width="70%">
-    <p/>
+    <p/> -->
 
-  <h3 align="center">HOBIT</h3>
+  <h1 align="center">K-BIT</h1>
 
   <p align="center">
     산업용 사물 인터넷 빅데이터 처리를 위한 온-프리미스 기반 분산 처리 프레임워크
